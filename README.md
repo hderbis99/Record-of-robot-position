@@ -1,2 +1,3 @@
 # Record-of-robot-position
-Dzięki temu programowi, możemy połączyć się z naszym ramieniem robota po przez transmisję szeregową 
+With this program, we can connect to our robot arm by serial transmission.
+The robot's position reading is not real-time
